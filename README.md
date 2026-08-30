@@ -1,9 +1,9 @@
-# <Nombre del proyecto>
+# Desarrollo de Software 2026
 
 Repositorio del Trabajo Práctico Integrador de Desarrollo de Software 2026.
 
 ## Integrantes
-- <Nombre y usuario GitHub>
+- Akeem Silva (@akeem-dev36)
 
 ## Cómo ejecutar
 Pendiente de TP 03.
