@@ -1,0 +1,7 @@
+# Archivos de compilación y temporales de .NET
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
